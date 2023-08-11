@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pdg-app",
+    "slug": "pdg-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pdg-app"
+}
