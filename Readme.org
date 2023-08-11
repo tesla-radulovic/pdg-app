@@ -1,0 +1,4 @@
+
+###AAAA 
+    do npm start -- --tunnel 
+    might have to do some stuff and set node env variable to allow unsecure SSL
